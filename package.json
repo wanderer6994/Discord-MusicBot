@@ -62,5 +62,9 @@
   },
   "lint-staged": {
     "*.{js,json,md}": "prettier --write"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
